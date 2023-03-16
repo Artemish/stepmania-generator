@@ -1,0 +1,34 @@
+﻿#TITLE:Generated;
+#SUBTITLE:リライト;
+#ARTIST:水谷瑠奈 (NanosizeMir);
+#TITLETRANSLIT:Philosophyz;
+#SUBTITLETRANSLIT:Rewrite;
+#ARTISTTRANSLIT:Mizutani Runa (NanosizeMir);
+#GENRE:Otaku's Dream 5th Mix (Pad);
+#CREDIT:Aikyoku;
+#BANNER:BG.png;
+#BACKGROUND:BG.png;
+#JACKET:;
+#LYRICSPATH:;
+#CDTITLE:BG.png;
+#MUSIC:{AUDIOPATH};
+#OFFSET:0.00;
+#SAMPLESTART:58.650;
+#SAMPLELENGTH:24.900;
+#SELECTABLE:YES;
+#LISTSORT:;
+#BPMS:{BPMS};
+#STOPS:;
+#TICKCOUNT:0.000=6;
+#BGCHANGES:;
+#KEYSOUNDS:;
+#ATTACKS:;
+
+//---------------dance-single - Aikyoku----------------
+#NOTES:
+     dance-single: // Chart type
+     Generated:      // Description/Author
+     Easy:     // Difficulty
+     5:            // Meter
+     0.152,0.197,0.031,0.041,0.000:  // Groove Radar values
+{NOTEDATA}
