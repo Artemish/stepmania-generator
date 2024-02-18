@@ -23,7 +23,7 @@ def get_bpm(musicfile):
 
 def process_mapfile(mapfile):
     # SM = StepmaniaMap(template_path='./template.sm')
-    # SM.load_from_file(mf)
+    # SM.load_from_osu_file(mf)
     try:
         path = p.Path(mapfile)
         map_dir = path.parent

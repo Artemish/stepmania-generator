@@ -12,7 +12,7 @@ class StepmaniaMap():
         with open(template_path) as templatefile:
             self.template_string = templatefile.read()
 
-    def load_from_file(self, filepath):
+    def load_from_osu_file(self, filepath):
         with open(filepath) as f:
             file_contents = f.read()
 
